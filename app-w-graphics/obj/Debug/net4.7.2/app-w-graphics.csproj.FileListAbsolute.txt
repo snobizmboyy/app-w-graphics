@@ -1,0 +1,10 @@
+c:\Users\czyte\Downloads\app-w-graphics Daniil B\app-w-graphics\bin\Debug\net4.7.2\app-w-graphics.exe.config
+c:\Users\czyte\Downloads\app-w-graphics Daniil B\app-w-graphics\bin\Debug\net4.7.2\app-w-graphics.exe
+c:\Users\czyte\Downloads\app-w-graphics Daniil B\app-w-graphics\bin\Debug\net4.7.2\app-w-graphics.pdb
+c:\Users\czyte\Downloads\app-w-graphics Daniil B\app-w-graphics\obj\Debug\net4.7.2\app-w-graphics.csproj.AssemblyReference.cache
+c:\Users\czyte\Downloads\app-w-graphics Daniil B\app-w-graphics\obj\Debug\net4.7.2\app-w-graphics.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\czyte\Downloads\app-w-graphics Daniil B\app-w-graphics\obj\Debug\net4.7.2\app-w-graphics.AssemblyInfoInputs.cache
+c:\Users\czyte\Downloads\app-w-graphics Daniil B\app-w-graphics\obj\Debug\net4.7.2\app-w-graphics.AssemblyInfo.cs
+c:\Users\czyte\Downloads\app-w-graphics Daniil B\app-w-graphics\obj\Debug\net4.7.2\app-w-graphics.csproj.CoreCompileInputs.cache
+c:\Users\czyte\Downloads\app-w-graphics Daniil B\app-w-graphics\obj\Debug\net4.7.2\app-w-graphics.exe
+c:\Users\czyte\Downloads\app-w-graphics Daniil B\app-w-graphics\obj\Debug\net4.7.2\app-w-graphics.pdb
